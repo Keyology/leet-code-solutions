@@ -10,10 +10,9 @@ You may assume that each input would have exactly one solution, and you may not 
     target = 9,
 ```
 
+```
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
-
-```
 
 ```
 
