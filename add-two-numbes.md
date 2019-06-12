@@ -14,6 +14,12 @@ Explanation: 342 + 465 = 807.
 
 ## Restate the question
 
+Given two linked list that contain postive numbers add each number in both linked list then return a new linked list
+
 ## Questions
 
+Will the linked list only contain numbers?
+
 ## Assumptions
+
+The linked list only contains numbers
